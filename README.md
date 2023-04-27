@@ -13,17 +13,19 @@
 
 
 ## 视频
-* 第二期 完整的一身：TODO
-* 第一期 项目起源： https://www.bilibili.com/video/BV1oe411L7X8
+* 第二期 [完整的一身](https://www.bilibili.com/video/BV1Xs4y1A7rm)
+* 第一期 [项目起源](https://www.bilibili.com/video/BV1oe411L7X8)
 
 
 ## 使用说明
 TODO
 
 ## 软件开发框架 
-TODO
 
-## 硬件制作
+https://github.com/crazy-luke/crazycube
+
+
+## 制作
 TODO
 
 ## 一键烧录固件
