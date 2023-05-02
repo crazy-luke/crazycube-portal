@@ -19,9 +19,10 @@
 
 ## 使用说明
 
-* [1.基础操作](https://www.bilibili.com/video/BV1WM411G74T/?vd_source=a77f743a4b63964a4a3138a80c5f895c)
+* [1.基础操作](https://www.bilibili.com/video/BV1WM411G74T)
 * [2.进阶操作](https://www.bilibili.com/video/BV1Vk4y1n7Rx)
-* [3. FC 游戏操作] 、 [4. 高级操作] TODO
+* [3.FC游戏机](https://www.bilibili.com/video/BV1nT411h7Av) 
+* [4.高级操作] TODO
 
 ## 软件开发框架 
 
