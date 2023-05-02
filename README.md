@@ -26,14 +26,14 @@
 
 ## 软件开发框架 
 
-开源地址：https://github.com/crazy-luke/crazycube
+开源地址：[crazycube](https://github.com/crazy-luke/crazycube)
 
 
 ## 制作
-TODO
+开源地址：[CrazyCube-hardware](https://github.com/crazy-luke/CrazyCube-hardware)
 
 ## 一键烧录固件
-开源地址：https://github.com/crazy-luke/CrazyCube-Flasher
+开源地址：[CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher)
 
 
 
