@@ -22,18 +22,17 @@
 * [1.基础操作](https://www.bilibili.com/video/BV1WM411G74T)
 * [2.进阶操作](https://www.bilibili.com/video/BV1Vk4y1n7Rx)
 * [3.FC游戏机](https://www.bilibili.com/video/BV1nT411h7Av) 
-* [4.高级操作] TODO
-
-## 软件开发框架 
-
-开源地址：[crazycube](https://github.com/crazy-luke/crazycube)
+* [4.高阶操作](https://www.bilibili.com/video/BV17o4y1A74J)
 
 
-## 制作
-开源地址：[CrazyCube-hardware](https://github.com/crazy-luke/CrazyCube-hardware)
+## 项目开源
 
-## 一键烧录固件
-开源地址：[CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher)
+
+* [1.软件开发框架 CrazyCube-AppOS](https://github.com/crazy-luke/crazycube)
+
+* [2.硬件制作 CrazyCube-Hardware](https://github.com/crazy-luke/CrazyCube-hardware)
+
+* [3.一键烧录 CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher)
 
 
 
