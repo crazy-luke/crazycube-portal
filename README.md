@@ -11,10 +11,23 @@
 ![Image of CrazyCube Flasher GUI](images/crazycube.jpg)
 
 
-
 ## 项目介绍视频
 * 第二期 [完整的一身](https://www.bilibili.com/video/BV1Xs4y1A7rm)
 * 第一期 [项目起源](https://www.bilibili.com/video/BV1oe411L7X8)
+
+
+## 项目开源
+
+* [1.软件开发框架 CrazyCube-AppOS](https://github.com/crazy-luke/crazycube)
+
+* [2.硬件制作 CrazyCube-Hardware](https://github.com/crazy-luke/CrazyCube-hardware)
+
+* [3.一键烧录 CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher)
+
+
+## 直接入手
+暂时保留代工地址 [氪金购买](https://item.taobao.com/item.htm?id=714746934007)
+
 
 
 ## 固件说明（firmware目录）
@@ -22,6 +35,8 @@
  	1. Mac 版： firmware\CrazyCube-Flasher.dmg
 	2. 烧录程序 Windows（Win11） 版本 请下载：firmware\CrazyCube-Flasher.exe
 * Bin 固件 简要说明
+	*  Cubot：机器人表情 + 幸运数字抽奖 （V1.4.0新增）
+	*  FlappyBird: 按钮控制小鸟游戏 （V1.4.0新增）
 	*  FC 游戏：红白游戏机模拟器，可自己上传ROM，陀螺仪+按钮 控制。
 	*  动感频谱：麦克风音频转换为频谱。
 	*  桌面: 天气、时间、签名、骇客帝国屏保
@@ -36,9 +51,6 @@
 	*  其他：APP 收纳盒、立方豆手册、姿态控制
 
 
-
-
-
 ## 使用说明
 
 * [1.基础操作](https://www.bilibili.com/video/BV1WM411G74T)
@@ -47,14 +59,6 @@
 * [4.高阶操作](https://www.bilibili.com/video/BV17o4y1A74J)
 
 
-## 项目开源
-
-
-* [1.软件开发框架 CrazyCube-AppOS](https://github.com/crazy-luke/crazycube)
-
-* [2.硬件制作 CrazyCube-Hardware](https://github.com/crazy-luke/CrazyCube-hardware)
-
-* [3.一键烧录 CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher)
 
 ## 支持 与 声明
 1. 超级立方豆硬件集成度较高，软件框架暂时还没时间写向导，新手排错可能有一定难度，如有疑问可以私信 B站 疯狂豆Luke 或者加小A的QQ 10900204
