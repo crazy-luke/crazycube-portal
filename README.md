@@ -12,9 +12,31 @@
 
 
 
-## 视频
+## 项目介绍视频
 * 第二期 [完整的一身](https://www.bilibili.com/video/BV1Xs4y1A7rm)
 * 第一期 [项目起源](https://www.bilibili.com/video/BV1oe411L7X8)
+
+
+## 固件说明（firmware目录）
+ * 烧录程序
+ 	1. Mac 版： firmware\CrazyCube-Flasher.dmg
+	2. 烧录程序 Windows（Win11） 版本 请下载：firmware\CrazyCube-Flasher.exe
+* Bin 固件 简要说明
+	*  FC 游戏：红白游戏机模拟器，可自己上传ROM，陀螺仪+按钮 控制。
+	*  动感频谱：麦克风音频转换为频谱。
+	*  桌面: 天气、时间、签名、骇客帝国屏保
+	*  完美Gif: 无需转码工具可直接显示 Gif文件
+	*  相册：显示照片
+	*  播客: 网络音频播放器，地址可自定义。
+	*  Bilibili: 自动下载UP头像（不需要手动上传照片）和粉丝
+	*  AI助手：ChatGPT 语音聊天
+	*  轻松一刻：陀螺仪控制贪食蛇和小蜜蜂游戏。
+	*  蓝牙手势键盘：手势操作转换为蓝牙键盘，控制电脑、Pad灯。
+	*  系统设置：配置超级立方豆
+	*  其他：APP 收纳盒、立方豆手册、姿态控制
+
+
+
 
 
 ## 使用说明
@@ -34,10 +56,9 @@
 
 * [3.一键烧录 CrazyCube-Flasher](https://github.com/crazy-luke/CrazyCube-Flasher)
 
-
-
-## 声明
-本项目仅供个人学习使用，未经允许不得用于任何商业用途。
+## 支持 与 声明
+1. 超级立方豆硬件集成度较高，软件框架暂时还没时间写向导，新手排错可能有一定难度，如有疑问可以私信 B站 疯狂豆Luke 或者加小A的QQ 10900204
+2. 本项目仅供个人学习使用，未经允许不得用于任何商业用途。
 
 
 ## License
