@@ -32,8 +32,8 @@
 
 ## 固件说明（firmware目录）
  * 烧录程序
- 	1. Mac 版： firmware\CrazyCube-Flasher.dmg
-	2. 烧录程序 Windows（Win11） 版本 请下载：firmware\CrazyCube-Flasher.exe
+ 	1. Windows（Win10 以上）版：CrazyCube-Flasher.exe
+	2. Mac 版：CrazyCube-Flasher.dmg
 * Bin 固件 简要说明
 	*  Cubot：机器人表情 + 幸运数字抽奖 （V1.4.0新增）
 	*  FlappyBird: 按钮控制小鸟游戏 （V1.4.0新增）
